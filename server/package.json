@@ -1,0 +1,11 @@
+{
+  "name": "nft_flippers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "nftFlippers",
+  "license": "ISC"
+}
